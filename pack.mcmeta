@@ -1,7 +1,0 @@
-{
-    "pack": {
-        "description": "\u00A74■ Fix stairs (0.1.1 ALPHA)\u00A7r\n■ By b24fun",
-        "pack_format": 2,
-        "supported_formats": {"min_inclusive": 2, "max_inclusive": 99}
-    }
-}
